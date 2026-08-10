@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "maqusss12345.aternos.me:61283",
+    "port": 61283,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 1,
+    "y": 104,
+    "z": 57
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Bardzo podoba mi sie ten serwer",
+        "Dobrze mi sie tutaj gra",
+        "Swietnie zrobiony serwer"
       ]
     },
     "chat-log": true,
