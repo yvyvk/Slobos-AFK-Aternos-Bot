@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "maqusss12345.aternos.me:61283",
+    "ip": "maqusss12345.aternos.me",
     "port": 61283,
     "version": "1.21.1",
     "try-creative": false
